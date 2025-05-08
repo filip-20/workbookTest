@@ -1,5 +1,18 @@
 {
   "versionNumber": 1,
-  "cells": {},
-  "cellsOrder": []
+  "cells": {
+    "2": {
+      "id": 2,
+      "type": "tableauEditor",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    }
+  },
+  "cellsOrder": [
+    2
+  ]
 }
