@@ -1,16 +1,6 @@
 {
   "versionNumber": 1,
   "cells": {
-    "1": {
-      "id": 1,
-      "type": "structureExplorer2",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    },
     "2": {
       "id": 2,
       "type": "structureExplorer",
@@ -23,7 +13,6 @@
     }
   },
   "cellsOrder": [
-    1,
     2
   ]
 }
