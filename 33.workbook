@@ -10,9 +10,20 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "3": {
+      "id": 3,
+      "type": "structureExplorer2",
+      "data": null,
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
-    2
+    2,
+    3
   ]
 }
