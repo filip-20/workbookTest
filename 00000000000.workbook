@@ -4,7 +4,19 @@
     "2": {
       "id": 2,
       "type": "context",
-      "data": [],
+      "data": [
+        3
+      ],
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
+    },
+    "3": {
+      "id": 3,
+      "type": "structureExplorer2",
+      "data": null,
       "idCounter": 0,
       "comments": {
         "ids": [],
