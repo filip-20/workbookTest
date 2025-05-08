@@ -14,7 +14,7 @@
     "2": {
       "id": 2,
       "type": "structureExplorer2",
-      "data": null,
+      "data": "{\n  \"formulas\": {\n    \"allFormulas\": [\n      {\n        \"text\": \"\\\\e c((p(a,b) & q(a,c)) <-> \\\\a x((p(x,a) | p(b,b))))\",\n        \"guess\": null,\n        \"gameChoices\": []\n      }\n    ]\n  },\n  \"language\": {\n    \"constants\": \"\",\n    \"predicates\": \"\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"\",\n    \"iC\": {},\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
       "idCounter": 0,
       "comments": {
         "ids": [],
