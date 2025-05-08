@@ -1,18 +1,5 @@
 {
   "versionNumber": 1,
-  "cells": {
-    "4": {
-      "id": 4,
-      "type": "formalizationChecker",
-      "data": null,
-      "idCounter": 0,
-      "comments": {
-        "ids": [],
-        "entities": {}
-      }
-    }
-  },
-  "cellsOrder": [
-    4
-  ]
+  "cells": {},
+  "cellsOrder": []
 }
