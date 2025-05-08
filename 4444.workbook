@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "structureExplorer",
-      "data": null,
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Domain cannot be empty\",\"parsed\":[]}},\"expressions\":{\"formulas\":[{\"value\":\"\\\\e c((p(a,b) & q(a,c)) <-> \\\\a x((p(x,a) | p(b,b))))\",\"expressionValue\":null,\"answerValue\":\"\",\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
