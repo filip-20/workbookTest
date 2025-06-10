@@ -14,7 +14,7 @@
     "2": {
       "id": 2,
       "type": "structureExplorer",
-      "data": null,
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"a,b\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"a\",\"b\"]},\"predicates\":{\"value\":\"p/2\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[{\"name\":\"p\",\"arity\":2}]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"a\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"An interpretation of this constant must be defined\",\"parsed\":[]},\"b\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"An interpretation of this constant must be defined\",\"parsed\":[]}},\"predicates\":{\"p/2\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[],\"tableEnabled\":false}},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Domain cannot be empty\",\"parsed\":[]}},\"expressions\":{\"formulas\":[{\"value\":\"\\\\e c((p(a,b) & q(a,c)) <-> \\\\a x((p(x,a) | p(b,b))))\",\"expressionValue\":null,\"answerValue\":true,\"errorMessage\":\"Expected equality symbol or non-equality symbol but \\\"(\\\" found.\",\"inputLocked\":false,\"answerLocked\":false,\"parsed\":null,\"gameHistory\":[],\"showVariables\":false,\"gameEnabled\":false,\"variableIndex\":1,\"validSyntax\":false}],\"terms\":[]},\"diagramCordState\":{}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
