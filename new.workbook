@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "newStructureExplorer",
-      "data": "{\n  \"formulas\": {\n    \"allFormulas\": [\n      {\n        \"text\": \"\\\\e c((p(a,b) & q(a,c)) <-> \\\\a x((p(x,a) | p(b,b))))\",\n        \"guess\": true,\n        \"gameChoices\": []\n      }\n    ]\n  },\n  \"language\": {\n    \"constants\": \"a,b,d\",\n    \"predicates\": \"p/2, q/2\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"1,2\",\n    \"iC\": {\n      \"a\": {\n        \"text\": \"1\"\n      },\n      \"b\": {\n        \"text\": \"2\"\n      },\n      \"d\": {\n        \"text\": \"1\"\n      }\n    },\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
+      "data": "{\n  \"formulas\": {\n    \"allFormulas\": [\n      {\n        \"text\": \"\\\\e c((p(a,b) & q(a,c)) <-> \\\\a x((p(x,a) | p(b,b))))\",\n        \"guess\": true,\n        \"gameChoices\": []\n      }\n    ]\n  },\n  \"language\": {\n    \"constants\": \"a,b\",\n    \"predicates\": \"p/2, q/2\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"1,2\",\n    \"iC\": {\n      \"a\": {\n        \"text\": \"1\"\n      },\n      \"b\": {\n        \"text\": \"2\"\n      },\n      \"d\": {\n        \"text\": \"1\"\n      }\n    },\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
       "idCounter": 0,
       "comments": {
         "ids": [],
