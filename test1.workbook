@@ -14,7 +14,7 @@
     "2": {
       "id": 2,
       "type": "structureExplorer2",
-      "data": "{\n  \"formulas\": {\n    \"allFormulas\": []\n  },\n  \"language\": {\n    \"constants\": \"A\",\n    \"predicates\": \"p/1,r/2,q/1\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"\",\n    \"iC\": {},\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
+      "data": "{\n  \"formulas\": {\n    \"allFormulas\": []\n  },\n  \"language\": {\n    \"constants\": \"A\",\n    \"predicates\": \"p/1,r/2,q/1\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"1,2,3\",\n    \"iC\": {\n      \"A\": {\n        \"text\": \"1\"\n      }\n    },\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
       "idCounter": 0,
       "comments": {
         "ids": [],
