@@ -4,7 +4,7 @@
     "1": {
       "id": 1,
       "type": "structureExplorer2",
-      "data": null,
+      "data": "{\n  \"formulas\": {\n    \"allFormulas\": []\n  },\n  \"language\": {\n    \"constants\": \"a,b\",\n    \"predicates\": \"\",\n    \"functions\": \"\"\n  },\n  \"structure\": {\n    \"domain\": \"1,2,3\",\n    \"iC\": {\n      \"a\": {\n        \"text\": \"1\"\n      }\n    },\n    \"iP\": {},\n    \"iF\": {}\n  },\n  \"variables\": {\n    \"text\": \"\"\n  }\n}",
       "idCounter": 0,
       "comments": {
         "ids": [],
