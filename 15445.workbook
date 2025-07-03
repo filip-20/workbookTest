@@ -20,10 +20,21 @@
         "ids": [],
         "entities": {}
       }
+    },
+    "3": {
+      "id": 3,
+      "type": "context",
+      "data": [],
+      "idCounter": 0,
+      "comments": {
+        "ids": [],
+        "entities": {}
+      }
     }
   },
   "cellsOrder": [
     1,
-    2
+    2,
+    3
   ]
 }
