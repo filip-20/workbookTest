@@ -14,7 +14,7 @@
     "2": {
       "id": 2,
       "type": "structureExplorer",
-      "data": null,
+      "data": "{\"common\":{\"teacherMode\":false},\"language\":{\"constants\":{\"value\":\"a,b\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[\"a\",\"b\"]},\"predicates\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"functions\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"lockedComponent\":false},\"structure\":{\"constants\":{\"a\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"An interpretation of this constant must be defined\",\"parsed\":[]},\"b\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"An interpretation of this constant must be defined\",\"parsed\":[]}},\"predicates\":{},\"functions\":{},\"variables\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"\",\"parsed\":[]},\"domain\":{\"value\":\"\",\"locked\":false,\"errorMessage\":\"Domain cannot be empty\",\"parsed\":[]}},\"expressions\":{\"formulas\":[],\"terms\":[]},\"diagramCordState\":{}}",
       "idCounter": 0,
       "comments": {
         "ids": [],
